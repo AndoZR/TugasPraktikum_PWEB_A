@@ -1,6 +1,6 @@
 document.querySelector('form').addEventListener('submit', function(event) {
-    var emailInput = document.getElementById('exampleInputEmail1');
-    var passwordInput = document.getElementById('exampleInputPassword1');
+    var emailInput = document.getElementById('email');
+    var passwordInput = document.getElementById('password');
 
     if (emailInput.value.trim() === '' || passwordInput.value.trim() === '') {
         Swal.fire({
