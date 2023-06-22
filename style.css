@@ -65,9 +65,9 @@ body{
 
 .shadow {
     position: absolute;
-    bottom: -10px; /* Sesuaikan dengan tinggi bayangan yang diinginkan */
+    bottom: -10px; 
     left: 0;
     right: 0;
-    height: 10px; /* Sesuaikan dengan tinggi bayangan yang diinginkan */
-    background-color: rgba(0, 0, 0, 0.2); /* Warna dan transparansi bayangan */
+    height: 10px; 
+    background-color: rgba(0, 0, 0, 0.2);
   }
